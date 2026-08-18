@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Session 2\" />
+    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>
